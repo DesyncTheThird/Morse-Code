@@ -12,15 +12,29 @@ Displays a stress pattern mnemonic on incorrect entry.
 
 Enter "menu" to return to mode selection menu.
 
+
 ## Receiving Text
 Displays a letter in morse code as text.
 
 Enter "menu" to return to mode selection menu.
 
+
 ## Receiving Sound
 Plays a letter in morse code.
 
-4 speed settings, mode 2 is recommended.
+4 speed settings, mode [2] is recommended.
+
+Enter "menu" to return to mode selection menu.
+
+Enter "repeat" to replay sound.
+
+Enter "hint" to display sound as text.
+
+
+## Receiving Words
+Plays a word in morse code.
+
+4 speed settings, mode [2] is recommended.
 
 Enter "menu" to return to mode selection menu.
 
