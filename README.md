@@ -32,7 +32,7 @@ Enter "hint" to display sound as text.
 
 
 ## Receiving Words
-Plays a word in morse code.
+Plays a word of up to 5 characters in length in morse code.
 
 4 speed settings, mode [2] is recommended.
 
